@@ -122,3 +122,106 @@ This app was not just a demo project but a **real-world production system** used
 ---
 
 ⭐ This project reflects my ability to build and deploy scalable, real-world applications.
+
+
+
+## 🔷 DC Office Rent Management System – NIT Hamirpur
+
+**🔗 GitHub Repository:**
+http://github.com/sahu-virendra-1908/dc_office
+
+---
+
+### 📌 Overview
+
+DC Office Rent Management System is a real-world application developed for managing rental properties under the DC Office at NIT Hamirpur.
+The system digitizes rent collection, tenant management, and property allocation, replacing manual processes with an efficient and transparent solution.
+
+---
+
+### 🚀 Key Features
+
+#### 💰 Rent Collection System
+
+* Tenants can pay rent directly through the application
+* Digital tracking of all payments
+
+#### 🔔 Automated Notifications
+
+* Automatic reminders sent to tenants before due date (e.g., 5th of every month)
+* Real-time notifications for payment updates
+
+#### 📊 Rent Status Monitoring (Admin Panel)
+
+* DC Office can track:
+
+  * Who has paid rent
+  * Who has pending dues
+* Complete visibility of monthly payment status
+
+#### 🧾 Payment History
+
+* Tenants can view:
+
+  * Previous payments
+  * Payment dates
+  * Rent history
+
+#### 🏠 Property Allocation Management
+
+* DC Office can:
+
+  * Assign shops, houses, and spaces to tenants
+  * Manage multiple properties efficiently
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**
+
+* Flutter (Dart)
+
+**Backend:**
+
+* Node.js
+* Express.js
+
+**Database:**
+
+* MongoDB
+
+**Other:**
+
+* REST APIs
+* Real-time notifications system
+
+---
+
+### 🧠 My Contributions
+
+* Designed and developed the complete system from scratch
+* Implemented rent tracking and notification system
+* Built admin functionalities for monitoring and control
+* Ensured smooth data flow between frontend and backend
+
+---
+
+### ⚙️ Challenges & Solutions
+
+**Challenge:** Managing real-time rent updates and notifications
+**Solution:** Designed efficient backend APIs and optimized notification triggers
+
+**Challenge:** Handling multiple tenants and property records
+**Solution:** Structured database schema for scalable data management
+
+---
+
+### 📈 Impact
+
+This system simplifies rent management for the DC Office and improves transparency between tenants and administration.
+It reduces manual workload and ensures timely rent collection through automated reminders.
+
+---
+
+⭐ This project demonstrates my ability to build real-world administrative and financial systems.
